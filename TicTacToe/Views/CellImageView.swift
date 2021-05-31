@@ -12,13 +12,6 @@ struct CellImageView: View {
     let systemName: String
     let color: Color
     var body: some View {
-        Image(systemName: systemName)
-            .resizable()
-            .foregroundColor(color)
-            .frame(
-                width: abs(proxy.size.width / 3 - 80),
-                height: abs(proxy.size.width / 3 - 80)
-            )
-            .aspectRatio(contentMode: .fit)
+        
     }
 }

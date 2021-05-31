@@ -14,8 +14,8 @@ struct Alerts {
         buttonText: Text("Let's play again")
     )
     static let aiWinsAlert = AlertModel(
-        title: Text("🤖 Ai wins! 🤖"),
-        message: Text("You can't diffet your own ai 🐸"),
+        title: Text("Ai wins! 🤖"),
+        message: Text("You can't defeat your own ai 🐸"),
         buttonText: Text("Try again")
     )
     static let drawAlert = AlertModel(

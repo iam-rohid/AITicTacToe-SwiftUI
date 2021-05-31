@@ -12,8 +12,6 @@
 		F8A2E6CF2664BECD00630CF8 /* AlertModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6CE2664BECD00630CF8 /* AlertModel.swift */; };
 		F8A2E6D12664BF0A00630CF8 /* MoveModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6D02664BF0A00630CF8 /* MoveModel.swift */; };
 		F8A2E6D52664BFC800630CF8 /* PlayerEnum.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6D42664BFC800630CF8 /* PlayerEnum.swift */; };
-		F8A2E6DA2664C8D600630CF8 /* CellView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6D92664C8D600630CF8 /* CellView.swift */; };
-		F8A2E6DC2664C8F200630CF8 /* CellImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6DB2664C8F200630CF8 /* CellImageView.swift */; };
 		F8A2E6DE26652FBD00630CF8 /* SettingsModal.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8A2E6DD26652FBD00630CF8 /* SettingsModal.swift */; };
 		F8B6F2AC265AC36900EBFC5C /* TicTacToeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B6F2AB265AC36900EBFC5C /* TicTacToeApp.swift */; };
 		F8B6F2AE265AC36900EBFC5C /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8B6F2AD265AC36900EBFC5C /* GameView.swift */; };
@@ -27,8 +25,6 @@
 		F8A2E6CE2664BECD00630CF8 /* AlertModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertModel.swift; sourceTree = "<group>"; };
 		F8A2E6D02664BF0A00630CF8 /* MoveModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoveModel.swift; sourceTree = "<group>"; };
 		F8A2E6D42664BFC800630CF8 /* PlayerEnum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerEnum.swift; sourceTree = "<group>"; };
-		F8A2E6D92664C8D600630CF8 /* CellView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellView.swift; sourceTree = "<group>"; };
-		F8A2E6DB2664C8F200630CF8 /* CellImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CellImageView.swift; sourceTree = "<group>"; };
 		F8A2E6DD26652FBD00630CF8 /* SettingsModal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsModal.swift; sourceTree = "<group>"; };
 		F8B6F2A8265AC36900EBFC5C /* TicTacToe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TicTacToe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F8B6F2AB265AC36900EBFC5C /* TicTacToeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicTacToeApp.swift; sourceTree = "<group>"; };
@@ -62,8 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				F8B6F2AD265AC36900EBFC5C /* GameView.swift */,
-				F8A2E6DB2664C8F200630CF8 /* CellImageView.swift */,
-				F8A2E6D92664C8D600630CF8 /* CellView.swift */,
 				F8A2E6DD26652FBD00630CF8 /* SettingsModal.swift */,
 			);
 			path = Views;
@@ -208,9 +202,7 @@
 				F8A2E6CF2664BECD00630CF8 /* AlertModel.swift in Sources */,
 				F8A2E6D12664BF0A00630CF8 /* MoveModel.swift in Sources */,
 				F8A2E6D52664BFC800630CF8 /* PlayerEnum.swift in Sources */,
-				F8A2E6DC2664C8F200630CF8 /* CellImageView.swift in Sources */,
 				F8A2E6C826640A3E00630CF8 /* Alerts.swift in Sources */,
-				F8A2E6DA2664C8D600630CF8 /* CellView.swift in Sources */,
 				F8A2E6DE26652FBD00630CF8 /* SettingsModal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
