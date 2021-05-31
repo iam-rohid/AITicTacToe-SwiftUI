@@ -1,11 +1,7 @@
 # AI-TicTacToe-SwiftUI
 
-Here's our logo (hover to see the title text):
+Screenshots:
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-
-Reference-style: 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+![alt text](https://github.com/rohid-hub/AI-TicTacToe-SwiftUI/blob/main/Screenshots/Screenshot%202021-05-31%20at%2010.52.45%20PM.png "Tic Tac Toe SwiftUI")
+![alt text](https://github.com/rohid-hub/AI-TicTacToe-SwiftUI/blob/main/Screenshots/Screenshot%202021-05-31%20at%2010.53.23%20PM.png "Tic Tac Toe SwiftUI")
+![alt text](https://github.com/rohid-hub/AI-TicTacToe-SwiftUI/blob/main/Screenshots/Screenshot%202021-05-31%20at%2010.55.15%20PM.png "Tic Tac Toe SwiftUI")
